@@ -1,0 +1,30 @@
+{{extend 'layout2.html'}}
+<img src="{{=URL('download', args=image.file)}}" />
+<h2><i>
+<label class="control-label col-sm-3">Dish:</label> {{=image.title}}
+<br>
+<br>
+<label class="control-label col-sm-3">Owner:</label> {{=image.author}}
+<br>
+<br>
+<label class="control-label col-sm-3">Upload On:</label> {{=image.date}}
+<br>
+<br>
+<label class="control-label col-sm-3">Recipe:</label> <pre>{{=image.description}}</pre>
+<br>
+<br>
+</i></h2>
+
+<div class="forbes2">{{=A('Edit',_href=URL('edit',args=request.args))}}</div>
+
+
+{{if len(comments):}}
+<h2><i>Comments</i></h2><br /><p>
+{{for post in comments:}}
+<div class="well">{{=post.visitor}} "Says" <i>{{=post.comment}}</i></div>
+{{pass}}</p>
+{{else:}}
+<h2>No Comments Posted Yet</h2>
+{{pass}}
+<h2>Post A Comment</h2>
+{{=form}}

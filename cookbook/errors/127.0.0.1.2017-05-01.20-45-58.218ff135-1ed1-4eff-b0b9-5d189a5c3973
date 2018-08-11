@@ -1,0 +1,530 @@
+(dp1
+S'output'
+p2
+S''
+sS'layer'
+p3
+S'Framework'
+p4
+sS'code'
+p5
+S''
+sS'snapshot'
+p6
+(dp7
+S'exception'
+p8
+(dp9
+S'__getslice__'
+p10
+S"<method-wrapper '__getslice__' of exceptions.BaseException object>"
+p11
+sS'__str__'
+p12
+S"<method-wrapper '__str__' of exceptions.BaseException object>"
+p13
+sS'__reduce__'
+p14
+S'<built-in method __reduce__ of exceptions.BaseException object>'
+p15
+sS'__dict__'
+p16
+S'{}'
+p17
+sS'message'
+p18
+S"'forms not in config []'"
+p19
+sS'__sizeof__'
+p20
+S'<built-in method __sizeof__ of exceptions.BaseException object>'
+p21
+sS'__init__'
+p22
+S"<method-wrapper '__init__' of exceptions.BaseException object>"
+p23
+sS'__setattr__'
+p24
+S"<method-wrapper '__setattr__' of exceptions.BaseException object>"
+p25
+sS'__reduce_ex__'
+p26
+S'<built-in method __reduce_ex__ of exceptions.BaseException object>'
+p27
+sS'__new__'
+p28
+S'<built-in method __new__ of type object>'
+p29
+sS'__format__'
+p30
+S'<built-in method __format__ of exceptions.BaseException object>'
+p31
+sS'__class__'
+p32
+S"<type 'exceptions.BaseException'>"
+p33
+sS'__doc__'
+p34
+S"'Common base class for all exceptions'"
+p35
+sS'__getitem__'
+p36
+S"<method-wrapper '__getitem__' of exceptions.BaseException object>"
+p37
+sS'__setstate__'
+p38
+S'<built-in method __setstate__ of exceptions.BaseException object>'
+p39
+sS'__getattribute__'
+p40
+S"<method-wrapper '__getattribute__' of exceptions.BaseException object>"
+p41
+sS'args'
+p42
+S"('forms not in config []',)"
+p43
+sS'__subclasshook__'
+p44
+S'<built-in method __subclasshook__ of type object>'
+p45
+sS'__unicode__'
+p46
+S'<built-in method __unicode__ of exceptions.BaseException object>'
+p47
+sS'__delattr__'
+p48
+S"<method-wrapper '__delattr__' of exceptions.BaseException object>"
+p49
+sS'__repr__'
+p50
+S"<method-wrapper '__repr__' of exceptions.BaseException object>"
+p51
+sS'__hash__'
+p52
+S"<method-wrapper '__hash__' of exceptions.BaseException object>"
+p53
+ssS'evalue'
+p54
+S'forms not in config []'
+p55
+sS'request'
+p56
+cgluon.html
+XML_unpickle
+p57
+(S's\xebb\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">ajax</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">application</td><td style="vertical-align:top;">:</td><td><div>cookbook</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cid</td><td style="vertical-align:top;">:</td><td><div>c591329359004</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">controller</td><td style="vertical-align:top;">:</td><td><div>appadmin</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_admin</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-2d0bda57-5a13-4e07-81e6-b4d50d17a590<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_taskmanagement</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-c936db16-ebea-429c-90f5-97a40a01d217<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_taskmanagement_backup</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-756f8f7e-60b4-44f0-9abc-3ed0f5c543da<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">env</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT</td><td style="vertical-align:top;">:</td><td><div>*/*</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_ENCODING</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, sdch, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_LANGUAGE</td><td style="vertical-align:top;">:</td><td><div>en-GB,en-US;q=0.8,en;q=0.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONNECTION</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_COOKIE</td><td style="vertical-align:top;">:</td><td><div>session_id_taskmanagement_backup=127.0.0.1-756f8f7e-60b4-44f0-9abc-3ed0f5c543da; session_id_taskmanagement=127.0.0.1-c936db16-ebea-429c-90f5-97a40a01d217; session_id_admin=127.0.0.1-2d0bda57-5a13-4e07-81e6-b4d50d17a590</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_HOST</td><td style="vertical-align:top;">:</td><td><div>localhost:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_REFERER</td><td style="vertical-align:top;">:</td><td><div>http://localhost:8000/admin/default/edit/cookbook/private/appconfig.ini?id=private</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_USER_AGENT</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_WEB2PY_COMPONENT_ELEMENT</td><td style="vertical-align:top;">:</td><td><div>c591329359004</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_WEB2PY_COMPONENT_LOCATION</td><td style="vertical-align:top;">:</td><td><div>http://localhost:8000/admin/default/edit/cookbook/private/appconfig.ini?id=private</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_X_REQUESTED_WITH</td><td style="vertical-align:top;">:</td><td><div>XMLHttpRequest</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">PATH_INFO</td><td style="vertical-align:top;">:</td><td><div>/cookbook/appadmin/hooks</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">QUERY_STRING</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_ADDR</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_PORT</td><td style="vertical-align:top;">:</td><td><div>57436</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REQUEST_METHOD</td><td style="vertical-align:top;">:</td><td><div>GET</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SCRIPT_NAME</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_NAME</td><td style="vertical-align:top;">:</td><td><div>deadshot</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PORT</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PROTOCOL</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_SOFTWARE</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;/home/priyansh/Downloads/web2py/applications/task_manager/&#x27;, &#x27;/home/priyansh/Downloads/web2py/applications/CookbookExample/&#x27;, &#x27;/home/priyansh/Downloads/web2py/applications/cookbook/&#x27;, &#x27;/home/priyansh/Downloads/web2py/applications/taskmanagement/&#x27;, &#x27;/home/priyansh/Downloads/web2py/applications/welcome/&#x27;, &#x27;/home/priyansh/Downloads/web2py/applications/admin/&#x27;, &#x27;/home/priyansh/Downloads/web2py/applications/taskmanagement_backup/&#x27;, &#x27;/home/priyansh/Downloads/web2py/applications/taskmanager_backup/&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>/home/priyansh/Downloads/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x7f2fb2198f80: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;deadshot&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;/home/priyansh/Downloads/web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>/home/priyansh/Downloads/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept</td><td style="vertical-align:top;">:</td><td><div>*/*</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_encoding</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, sdch, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_language</td><td style="vertical-align:top;">:</td><td><div>en-GB,en-US;q=0.8,en;q=0.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_connection</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cookie</td><td style="vertical-align:top;">:</td><td><div>session_id_taskmanagement_backup=127.0.0.1-756f8f7e-60b4-44f0-9abc-3ed0f5c543da; session_id_taskmanagement=127.0.0.1-c936db16-ebea-429c-90f5-97a40a01d217; session_id_admin=127.0.0.1-2d0bda57-5a13-4e07-81e6-b4d50d17a590</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_host</td><td style="vertical-align:top;">:</td><td><div>localhost:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_referer</td><td style="vertical-align:top;">:</td><td><div>http://localhost:8000/admin/default/edit/cookbook/private/appconfig.ini?id=private</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_user_agent</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_web2py_component_element</td><td style="vertical-align:top;">:</td><td><div>c591329359004</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_web2py_component_location</td><td style="vertical-align:top;">:</td><td><div>http://localhost:8000/admin/default/edit/cookbook/private/appconfig.ini?id=private</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_x_requested_with</td><td style="vertical-align:top;">:</td><td><div>XMLHttpRequest</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>::1</div></td></tr><tr><td><div>127.0.1.1</div></td></tr><tr><td><div>deadshot</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path_info</td><td style="vertical-align:top;">:</td><td><div>/cookbook/appadmin/hooks</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">query_string</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_addr</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_port</td><td style="vertical-align:top;">:</td><td><div>57436</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_method</td><td style="vertical-align:top;">:</td><td><div>GET</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_uri</td><td style="vertical-align:top;">:</td><td><div>/cookbook/appadmin/hooks</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_name</td><td style="vertical-align:top;">:</td><td><div>deadshot</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_port</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_protocol</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_software</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_path</td><td style="vertical-align:top;">:</td><td><div>/home/priyansh/Downloads/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.14.6-stable+timestamp.2016.05.09.19.18.48</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x7f2fbaf651e0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x7f2fb344b3f8&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x7f2f8432a4d0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x7f2fbaf651e0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x7f2fb344b3f8&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x7f2f8432a4d0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">extension</td><td style="vertical-align:top;">:</td><td><div>html</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">folder</td><td style="vertical-align:top;">:</td><td><div>/home/priyansh/Downloads/web2py/applications/cookbook/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">function</td><td style="vertical-align:top;">:</td><td><div>hooks</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">global_settings</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;/home/priyansh/Downloads/web2py/applications/task_manager/&#x27;, &#x27;/home/priyansh/Downloads/web2py/applications/CookbookExample/&#x27;, &#x27;/home/priyansh/Downloads/web2py/applications/cookbook/&#x27;, &#x27;/home/priyansh/Downloads/web2py/applications/taskmanagement/&#x27;, &#x27;/home/priyansh/Downloads/web2py/applications/welcome/&#x27;, &#x27;/home/priyansh/Downloads/web2py/applications/admin/&#x27;, &#x27;/home/priyansh/Downloads/web2py/applications/taskmanagement_backup/&#x27;, &#x27;/home/priyansh/Downloads/web2py/applications/taskmanager_backup/&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>/home/priyansh/Downloads/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x7f2fb2198f80: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;deadshot&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;/home/priyansh/Downloads/web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>/home/priyansh/Downloads/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>::1</div></td></tr><tr><td><div>127.0.1.1</div></td></tr><tr><td><div>deadshot</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.14.6-stable+timestamp.2016.05.09.19.18.48</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_https</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_local</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_restful</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_scheduler</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_shell</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">now</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 5, 1, 20, 45, 58, 539059)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_args</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_extension</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">url</td><td style="vertical-align:top;">:</td><td><div>/cookbook/appadmin/hooks</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">utcnow</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 5, 1, 15, 15, 58, 539091)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi</td><td style="vertical-align:top;">:</td><td><div>&lt;gluon.main.LazyWSGI object at 0x7f2f843f4810&gt;</div></td></tr></table></div>'
+tRp58
+sS'frames'
+p59
+(lp60
+(dp61
+S'file'
+p62
+S'/home/priyansh/Downloads/web2py/gluon/main.py'
+p63
+sS'dump'
+p64
+(dp65
+S'global serve_controller'
+p66
+S'<function serve_controller>'
+p67
+sS'session'
+p68
+S'<Storage {}>'
+p69
+sS'request'
+p70
+S"<Storage {'_vars': None, 'function': 'hooks', 'c...iyansh/Downloads/web2py/applications/cookbook/'}>"
+p71
+sS'response'
+p72
+S"<Storage {'body': <cStringIO.StringO object at 0... 0x7f2f85294578>, 'view': 'appadmin/hooks.html'}>"
+p73
+ssS'lnum'
+p74
+I446
+sS'lines'
+p75
+(dp76
+I448
+S'                http_response = hr'
+p77
+sI449
+S''
+sI450
+S'                if static_file:'
+p78
+sI441
+S'                if global_settings.debugging and app != "admin":'
+p79
+sI442
+S'                    import gluon.debug'
+p80
+sI443
+S'                    # activate the debugger'
+p81
+sI444
+S'                    gluon.debug.dbg.do_debug(mainpyfile=request.folder)'
+p82
+sI445
+S''
+sI446
+S'                serve_controller(request, response, session)'
+p83
+sI447
+S'            except HTTP as hr:'
+p84
+ssS'call'
+p85
+S"(environ={'HTTP_ACCEPT': '*/*', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate, sdch, br', 'HTTP_ACCEPT_LANGUAGE': 'en-GB,en-US;q=0.8,en;q=0.6', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_COOKIE': 'session_id_taskmanagement_backup=127.0.0.1-756f8...in=127.0.0.1-2d0bda57-5a13-4e07-81e6-b4d50d17a590', 'HTTP_HOST': 'localhost:8000', 'HTTP_REFERER': 'http://localhost:8000/admin/default/edit/cookbook/private/appconfig.ini?id=private', 'HTTP_USER_AGENT': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537....ML, like Gecko) Chrome/56.0.2924.87 Safari/537.36', 'HTTP_WEB2PY_COMPONENT_ELEMENT': 'c591329359004', 'HTTP_WEB2PY_COMPONENT_LOCATION': 'http://localhost:8000/admin/default/edit/cookbook/private/appconfig.ini?id=private', ...}, responder=<function responder2>)"
+p86
+sS'func'
+p87
+S'wsgibase'
+p88
+sa(dp89
+g62
+S'/home/priyansh/Downloads/web2py/gluon/main.py'
+p90
+sg64
+(dp91
+S'environment'
+p92
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, 'CAT': <class 'gluon.html.CAT'>, ...}"
+p93
+sS'global run_models_in'
+p94
+S'<function run_models_in>'
+p95
+ssg74
+I177
+sg75
+(dp96
+I172
+S'    # also, make sure the flash is passed through'
+p97
+sI173
+S'    # ##################################################'
+p98
+sI174
+S'    # process models, controller and view (if required)'
+p99
+sI175
+S'    # ##################################################'
+p100
+sI176
+S''
+sI177
+S'    run_models_in(environment)'
+p101
+sI178
+S'    response._view_environment = copy.copy(environment)'
+p102
+sI179
+S'    page = run_controller_in(request.controller, request.function, environment)'
+p103
+sI180
+S'    if isinstance(page, dict):'
+p104
+sI181
+S'        response._vars = page'
+p105
+ssg85
+S"(request=<Storage {'_vars': None, 'function': 'hooks', 'c...iyansh/Downloads/web2py/applications/cookbook/'}>, response=<Storage {'body': <cStringIO.StringO object at 0... 0x7f2f85294578>, 'view': 'appadmin/hooks.html'}>, session=<Storage {}>)"
+p106
+sg87
+S'serve_controller'
+p107
+sa(dp108
+g62
+S'/home/priyansh/Downloads/web2py/gluon/compileapp.py'
+p109
+sg64
+(dp110
+S'environment'
+p111
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, 'CAT': <class 'gluon.html.CAT'>, ...}"
+p112
+sS'model'
+p113
+S"'/home/priyansh/Downloads/web2py/applications/cookbook/models/db.py'"
+p114
+sS'layer'
+p115
+S'undefined'
+p116
+sS'global restricted'
+p117
+S'<function restricted>'
+p118
+sS'ccode'
+p119
+S'<code object <module> at 0x7f2fa805f730, file "/...b2py/applications/cookbook/models/db.py", line 1>'
+p120
+ssg74
+I584
+sg75
+(dp121
+I579
+S'            elif compiled:'
+p122
+sI580
+S'                f = lambda: read_pyc(model)'
+p123
+sI581
+S'            else:'
+p124
+sI582
+S'                f = lambda: compile2(read_file(model), model)'
+p125
+sI583
+S'            ccode = getcfs(model, model, f)'
+p126
+sI584
+S'            restricted(ccode, environment, layer=model)'
+p127
+sI585
+S''
+sI586
+S'def run_controller_in(controller, function, environment):'
+p128
+sI587
+S'    """'
+p129
+sI588
+S'    Runs the controller.function() (for the app specified by'
+p130
+ssg85
+S"(environment={'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, 'CAT': <class 'gluon.html.CAT'>, ...})"
+p131
+sg87
+S'run_models_in'
+p132
+sa(dp133
+g62
+S'/home/priyansh/Downloads/web2py/gluon/restricted.py'
+p134
+sg64
+(dp135
+S'environment'
+p136
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, 'CAT': <class 'gluon.html.CAT'>, ...}"
+p137
+sS'ccode'
+p138
+S'<code object <module> at 0x7f2fa805f730, file "/...b2py/applications/cookbook/models/db.py", line 1>'
+p139
+ssg74
+I216
+sg75
+(dp140
+I211
+S'    if environment is None:'
+p141
+sI212
+S'        environment = {}'
+p142
+sI213
+S"    environment['__file__'] = layer"
+p143
+sI214
+S"    environment['__name__'] = '__restricted__'"
+p144
+sI215
+S'    try:'
+p145
+sI216
+S'        exec(ccode, environment)'
+p146
+sI217
+S'    except HTTP:'
+p147
+sI218
+S'        raise'
+p148
+sI219
+S'    except RestrictedError:'
+p149
+sI220
+S'        # do not encapsulate (obfuscate) the original RestrictedError'
+p150
+ssg85
+S'(ccode=<code object <module> at 0x7f2fa805f730, file "/...b2py/applications/cookbook/models/db.py", line 1>, environment={\'A\': <class \'gluon.html.A\'>, \'ANY_OF\': <class \'gluon.validators.ANY_OF\'>, \'ASSIGNJS\': <function ASSIGNJS>, \'AppConfig\': <function AppConfig>, \'B\': <class \'gluon.html.B\'>, \'BEAUTIFY\': <class \'gluon.html.BEAUTIFY\'>, \'BODY\': <class \'gluon.html.BODY\'>, \'BR\': <class \'gluon.html.BR\'>, \'BUTTON\': <class \'gluon.html.BUTTON\'>, \'CAT\': <class \'gluon.html.CAT\'>, ...}, layer=\'/home/priyansh/Downloads/web2py/applications/cookbook/models/db.py\')'
+p151
+sg87
+S'restricted'
+p152
+sa(dp153
+g62
+S'/home/priyansh/Downloads/web2py/applications/cookbook/models/db.py'
+p154
+sg64
+(dp155
+S'myconf.take'
+p156
+S'<bound method AppConfigDict.take of {}>'
+p157
+sS'response.formstyle'
+p158
+S"'table3cols'"
+p159
+sS'response'
+p160
+S"<Storage {'body': <cStringIO.StringO object at 0... 0x7f2f85294578>, 'view': 'appadmin/hooks.html'}>"
+p161
+sS'myconf'
+p162
+S'{}'
+p163
+ssg74
+I5
+sg75
+(dp164
+I2
+S''
+sI3
+S'myconf = AppConfig(reload=True)'
+p165
+sI4
+S''
+sI5
+S"response.formstyle = myconf.take('forms.formstyle')  # or 'bootstrap3_stacked' or 'bootstrap2' or other"
+p166
+sI6
+S"response.form_label_separator = myconf.take('forms.separator')"
+p167
+sI7
+S''
+sI8
+S"db = DAL('sqlite://storage.sqlite')"
+p168
+sI9
+S''
+sI10
+S'from gluon.tools import Auth, Service, PluginManager'
+p169
+sI11
+S''
+ssg85
+S'()'
+p170
+sg87
+S'<module>'
+p171
+sa(dp172
+g62
+S'/home/priyansh/Downloads/web2py/gluon/contrib/appconfig.py'
+p173
+sg64
+(dp174
+S'walking'
+p175
+S'[]'
+p176
+sS'part'
+p177
+S"'forms'"
+p178
+sS"'-->'.join"
+p179
+S'<built-in method join of str object>'
+p180
+ssg74
+I90
+sg75
+(dp181
+I85
+S'        value = self'
+p182
+sI86
+S'        walking = []'
+p183
+sI87
+S'        for part in parts:'
+p184
+sI88
+S'            if part not in value:'
+p185
+sI89
+S'                raise BaseException("%s not in config [%s]" %'
+p186
+sI90
+S"                    (part, '-->'.join(walking)))"
+p187
+sI91
+S'            value = value[part]'
+p188
+sI92
+S'            walking.append(part)'
+p189
+sI93
+S'        if cast is None:'
+p190
+sI94
+S'            self.int_cache[path] = value'
+p191
+ssg85
+S"(self={}, path='forms.formstyle', cast=None)"
+p192
+sg87
+S'take'
+p193
+sasS'pyver'
+p194
+S'Python 2.7.12: /home/priyansh/anaconda2/bin/python (prefix: /home/priyansh/anaconda2)'
+p195
+sS'session'
+p196
+g57
+(S's\x1a\x00\x00\x00<div><table></table></div>'
+tRp197
+sS'etype'
+p198
+S"<type 'exceptions.BaseException'>"
+p199
+sS'date'
+p200
+S'Mon May  1 20:45:58 2017'
+p201
+sS'response'
+p202
+g57
+(S's=\x16\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">body</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x7f2fa8043618&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_cookbook</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-12d548db-6be1-49a9-9fb9-913880dbe635<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">delimiters</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>{{</div></td></tr><tr><td><div>}}</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">files</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">form_label_separator</td><td style="vertical-align:top;">:</td><td><div>: </div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">formstyle</td><td style="vertical-align:top;">:</td><td><div>table3cols</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generic_patterns</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>*</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">headers</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">X-Powered-By</td><td style="vertical-align:top;">:</td><td><div>web2py</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">menu</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">meta</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">models_to_run</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>^\\w+\\.py$</div></td></tr><tr><td><div>^appadmin/\\w+\\.py$</div></td></tr><tr><td><div>^appadmin/hooks/\\w+\\.py$</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">postprocessing</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_compression_level</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_expires</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_data_name</td><td style="vertical-align:top;">:</td><td><div>session_data_cookbook</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_file</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_filename</td><td style="vertical-align:top;">:</td><td><div>/home/priyansh/Downloads/web2py/applications/cookbook/sessions/127.0.0.1-12d548db-6be1-49a9-9fb9-913880dbe635</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_hash</td><td style="vertical-align:top;">:</td><td><div>c0762cbf4baf7f9af97c051e7fcb8083</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-12d548db-6be1-49a9-9fb9-913880dbe635</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_name</td><td style="vertical-align:top;">:</td><td><div>session_id_cookbook</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_masterapp</td><td style="vertical-align:top;">:</td><td><div>cookbook</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_new</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_storage_type</td><td style="vertical-align:top;">:</td><td><div>file</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">status</td><td style="vertical-align:top;">:</td><td><div>200</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">view</td><td style="vertical-align:top;">:</td><td><div>appadmin/hooks.html</div></td></tr></table></div>'
+tRp203
+sS'locals'
+p204
+(dp205
+S'walking'
+p206
+S'[]'
+p207
+sS'self'
+p208
+S'{}'
+p209
+sS'value'
+p210
+S'{}'
+p211
+sS'cast'
+p212
+S'None'
+p213
+sS'parts'
+p214
+S"['forms', 'formstyle']"
+p215
+sS'path'
+p216
+S"'forms.formstyle'"
+p217
+sS'part'
+p218
+S"'forms'"
+p219
+sssS'traceback'
+p220
+S'Traceback (most recent call last):\n  File "/home/priyansh/Downloads/web2py/gluon/main.py", line 446, in wsgibase\n    serve_controller(request, response, session)\n  File "/home/priyansh/Downloads/web2py/gluon/main.py", line 177, in serve_controller\n    run_models_in(environment)\n  File "/home/priyansh/Downloads/web2py/gluon/compileapp.py", line 584, in run_models_in\n    restricted(ccode, environment, layer=model)\n  File "/home/priyansh/Downloads/web2py/gluon/restricted.py", line 216, in restricted\n    exec(ccode, environment)\n  File "/home/priyansh/Downloads/web2py/applications/cookbook/models/db.py", line 5, in <module>\n    response.formstyle = myconf.take(\'forms.formstyle\')  # or \'bootstrap3_stacked\' or \'bootstrap2\' or other\n  File "/home/priyansh/Downloads/web2py/gluon/contrib/appconfig.py", line 90, in take\n    (part, \'-->\'.join(walking)))\nBaseException: forms not in config []\n'
+p221
+s.

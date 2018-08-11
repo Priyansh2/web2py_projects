@@ -1,0 +1,20 @@
+{{extend 'layout.html'}}
+<ul>
+<table>
+{{for i,row in enumerate(rows):}}
+{{if i==items_per_page: break}}
+<tr>
+    <td style="width:1%;"><h3>{{=LI(A(row.title, _href=URL('show', args=row.id)))}}</h3></td>
+    <td style="width:1%;"><h3>By: {{=row.author}}</h3></td>
+    <td style="width:1%;"><img style="padding-top:5%;width:150px;height:150px;" src="{{=URL('download', args=row.file)}}" /></td>
+    
+</tr>
+{{pass}}
+</table>
+</ul>
+{{if page:}}
+<a href="{{=URL(args=[page-1])}}"><div class="forbes1">PREVIOUS</div></a>
+{{pass}}
+{{if len(rows)>items_per_page:}}
+<a href="{{=URL(args=[page+1])}}"><div class="forbes">NEXT</div></a>
+{{pass}}
